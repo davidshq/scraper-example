@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Do not add licensing information to a project unless explicitly requested to do so. This includes not creating licensing info. in the README.md
