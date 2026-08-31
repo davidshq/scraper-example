@@ -15,7 +15,7 @@
     "dotenv": "^16.4.5",
     "reflect-metadata": "^0.2.2",
     "sqlite3": "^6.0.1",
-    "typeorm": "^1.0.0"
+    "typeorm": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
